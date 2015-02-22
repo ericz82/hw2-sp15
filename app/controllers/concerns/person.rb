@@ -6,7 +6,7 @@ class Person
   end
 
   def introduce
-    "My name is #{@name} and I am #{@age}"
+    "My name is #{@name} and I am #{@age} years old!"
   end
 
   def birth_year
